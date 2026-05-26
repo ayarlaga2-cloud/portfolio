@@ -1,0 +1,16 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+node_modules/
+dist/
+build/
+
+# Local preview server config (keep .claude folder out of public history)
+.claude/
